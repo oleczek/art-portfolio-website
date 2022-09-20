@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "fafula.com",
     "description": "",
-    "home_page_url": "https://oleczek.github.io/art-portfolio-website",
-    "feed_url": "https://oleczek.github.io/art-portfolio-website/feed.json",
+    "home_page_url": "https://www.fafula.com",
+    "feed_url": "https://www.fafula.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "dr Alex Fafula"
